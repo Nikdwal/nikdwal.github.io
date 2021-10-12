@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Nick Dewaele
 
-You can use the [editor on GitHub](https://github.com/Nikdwal/nikdwal.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am a Ph.D. student at KU Leuven working on the numerical analysis of multilinear models used in data analysis. My research is supervised by [Nick Vannieuwenhoven](https://people.cs.kuleuven.be/~nick.vannieuwenhoven) and [Paul Breiding](https://pbrdng.github.io/). My contact information is available [here](https://www.kuleuven.be/wieiswie/nl/person/00124993).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Research
+#### Article preprints
+- _Three decompositions of symmetric tensors have similar condition numbers_
+  - Nick Dewaele, Paul Breiding, Nick Vannieuwenhoven, [arXiv 2110.04172](https://arxiv.org/abs/2110.04172)
+- _The condition number of many tensor decompositions is invariant under Tucker compression_
+  - Nick Dewaele, Paul Breiding, Nick Vannieuwenhoven, [arXiv 2106.13034](https://arxiv.org/abs/2106.13034)
 
-### Markdown
+#### Talks
+- [Computing the condition number of tensor decompositions through Tucker compression](https://indico.cs.dm.unipi.it/event/7/contributions/19/attachments/12/12/abstract_mettix.pdf)
+  - At the METTIX conference in Perugia, Italy, September 2021
+- [The sensitivity of block term decompositions](http://www.ipam.ucla.edu/wp-content/uploads/2021/04/Dewaele-Poster-TMWS3.pdf)
+  - At the IPAM workshop on _Mathematical Foundations and Algorithms for Tensor Computations_, April 2021
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Education
+I have been a TA (_"assistent"_) or co-TA (_"jobstudent"_) for the following bachelor level courses:
+- Computergesteund probleemoplossen in de natuurkunde (2022-...)
+- Toepassingen van de meetkunde in de informatica (2020-...)
+- Analyse, deel 3 (2018-2019)
+- Lineaire algebra (voorbereidingsprogramma master ir. / schakelprogramma toeg. informatica) (2018-2019)
+- Wiskunde voor probleemoplossen (2018)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Nikdwal/nikdwal.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+I have also supervised master's theses on the following topics
+- Completing correlation matrices for portfolio optimisation (P.E. Verleye & J. Nelis, 2021-2022)
+- Riemannian optimisation on toric varieties (A. Lescroart, 2020-2021)
