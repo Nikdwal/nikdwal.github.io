@@ -30,7 +30,7 @@ I have also supervised master's theses on the following topics
 - Completing correlation matrices for portfolio optimisation (P.E. Verleye & J. Nelis, 2021-2022)
 - Riemannian optimisation on toric varieties (A. Lescroart, 2020-2021)
 
-### Wat is factoranalyse ?
+### Wat is factoranalyse
 [Wikipedia](https://nl.wikipedia.org/wiki/Factoranalyse) definieert factoranalyse als een _statistische techniek die voor een groot aantal geobserveerde variabelen een kleiner aantal achterliggende variabelen identificeert_. Laten we illustreren met een voorbeeld.
 
 Een psycholoog wil een model van persoonlijkheden ontwikkelen. Hiervoor heeft hij een vragenlijst met 100 vragen opgesteld, en deze vragenlijst is door een groot aantal proefpersonen beantwoord. Elke vraag bestaat uit een stelling, en de proefpersoon beantwoordt met een score van 0 (niet akkoord) tot 10 (akkoord). De antwoorden zijn gestructureerd als volgt:
