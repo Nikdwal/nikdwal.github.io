@@ -3,7 +3,7 @@
 
 ### About me
 
-I am a Ph.D. student at KU Leuven working on the numerical analysis of multilinear models used in data analysis. My research is supervised by [Nick Vannieuwenhoven](https://people.cs.kuleuven.be/~nick.vannieuwenhoven) and [Paul Breiding](https://pbrdng.github.io/). My contact information is available [here](https://www.kuleuven.be/wieiswie/nl/person/00124993).
+I am a Ph.D. student at KU Leuven working on the numerical analysis of multilinear models used in data analysis. This topic is explained [below](#wat-is-factoranalyse) (in Dutch). My research is supervised by [Nick Vannieuwenhoven](https://people.cs.kuleuven.be/~nick.vannieuwenhoven) and [Paul Breiding](https://pbrdng.github.io/). My contact information is available [here](https://www.kuleuven.be/wieiswie/nl/person/00124993).
 
 ### Research
 #### Article preprints
@@ -29,3 +29,5 @@ I have been a TA (_"assistent"_, >= 2020) or co-TA (_"jobstudent"_, <= 2019) for
 I have also supervised master's theses on the following topics
 - Completing correlation matrices for portfolio optimisation (P.E. Verleye & J. Nelis, 2021-2022)
 - Riemannian optimisation on toric varieties (A. Lescroart, 2020-2021)
+
+### Wat is factoranalyse
