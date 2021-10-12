@@ -45,6 +45,7 @@ Een psycholoog wil een model van persoonlijkheden ontwikkelen. Hiervoor heeft hi
 Er is een vermoeden dat de 100 vragen niet volledig losstaan van elkaar, omdat het antwoord op de ene vraag het antwoord op de andere gedeeltijk kan voorspellen. Bijvoorbeeld, op de vragen "Ik volg steeds een plan" en "Ik hou van orde" zal een proefpersoon typisch gelijkaardige antwoorden geven. Dat wijst erop dat hetzelfde persoonskenmerk op meerdere verschillende manieren gemeten wordt. Hoewel er 100 verschillende vragen gesteld worden, kan het zijn dat er in werkelijkheid maar een handvol kenmerken de antwoorden van een persoon op de vragenlijst verklaart. We hebben echter nood aan een systematische methode om te herkennen welke groepen vragen gelijkaardige kenmerken meten. Deze systematische methode heet factoranalyse.
 
 Om dit vraagstuk op te lossen, vraagt de psycholoog om hulp bij de wiskundige, met de vraag om een vijftal achterliggende variabelen te bepalen. Deze gaat aan het werk op de volgende manier. Hij maakt vijf nieuwe testen, met al dezelde vragen als in de originele vragenlijst. Voor elke test wordt aan elke vraag een gewicht toegekend. Om even op de zaken vooruit te lopen: we willen dat elk van deze nieuwe testen een persoonskenmerk meet (bijv. dat de eerste test ordelijkheid meet) en dat de gewichten per vraag aangeven hoeveel die vraag aansluit bij dat persoonskenmerk. De gewichten zouden eruit kunnen zien als:
+
 | vraag 1 | vraag 2 | ... | vraag 100 |
 | :-----: | :-----: | :-: | :-------: |
 | 0.05 | 0.02 | ... | 0.15 |
@@ -60,6 +61,7 @@ Voor elke proefpersoon is er dan een totaalscore te berekenen voor die test. De 
 De score op de test meet niet of de antwoorden juist of fout waren, maar wel of de proefpersoon vaak akoord ging met de stellingen (vragen) die veel gewicht kregen. Als de vragen met het meeste gewicht allemaal overeenkomen met een gelijkaardig persoonskenmerk, beantwoorden de proefpersonen met de hoogste scores ook het meest aan dat persoonskenmerk. Het idee is dus om voor elk persoonskenmerk zo een test te maken aan de hand van vragen uit de originele lijst, telkens met andere gewichten.
 
 Herinner dat de bedoeling was om de originele tabel met de antwoorden van de proefpersonen samen te vatten tot een minimum aan informatie. Dat doen we door enkel de totaalscores op de nieuwe testen bij te houden, en de antwoorden op de individuele vragen te negeren. Per persoon hebben we dus vijf totaalscores in plaats van honderd antwoorden op individuele vragen. De samenvatting van de originele tabel ziet er dan bijvoorbeeld uit als volgt:
+
 | Persoon | Score op test 1 | ... | Score op test 5 |
 | ------ | :-: | :-: | :-: |
 | Alice | 33 | ... | 76 |
