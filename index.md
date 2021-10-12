@@ -3,11 +3,7 @@
 
 ### About me
 
-<img src="me.png" align="left" height="100em" />
-
-<div padding-left="3em">
 I am a Ph.D. student at KU Leuven working on the numerical analysis of multilinear models used in data analysis. My research is supervised by [Nick Vannieuwenhoven](https://people.cs.kuleuven.be/~nick.vannieuwenhoven) and [Paul Breiding](https://pbrdng.github.io/). My contact information is available [here](https://www.kuleuven.be/wieiswie/nl/person/00124993).
-</div>
 
 ### Research
 #### Article preprints
