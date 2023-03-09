@@ -3,8 +3,17 @@
 
 ### About me
 
-I am a Ph.D. student at KU Leuven working on numerical analysis, in particular the study of condition numbers of tensor-related problems. My research is supervised by [Nick Vannieuwenhoven](https://people.cs.kuleuven.be/~nick.vannieuwenhoven) and [Paul Breiding](https://pbrdng.github.io/).
-
+<table><tr>
+  <td>
+    <img src="https://raw.githubusercontent.com/Nikdwal/nikdwal.github.io/master/me.jpeg">
+  </td>
+ 
+  <td>
+    I am a Ph.D. student at KU Leuven working on numerical analysis, in particular the study of condition numbers of tensor-related problems. My research is supervised by <a href="https://people.cs.kuleuven.be/~nick.vannieuwenhoven">Nick Vannieuwenhoven</a> and <a href="https://pbrdng.github.io/">Paul Breiding</a>.
+  </td>
+  </tr>
+</table>
+  
 | [contact information](https://www.kuleuven.be/wieiswie/nl/person/00124993) | [Researchgate](https://www.researchgate.net/profile/Nick-Dewaele-2) | [ORCiD](https://orcid.org/0000-0002-5558-4782) |
 
 #### Research interests
