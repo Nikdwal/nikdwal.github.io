@@ -7,12 +7,18 @@ I am a Ph.D. student at KU Leuven working on numerical analysis, in particular t
 
 | [contact information](https://www.kuleuven.be/wieiswie/nl/person/00124993) | [Researchgate](https://www.researchgate.net/profile/Nick-Dewaele-2) | [ORCiD](https://orcid.org/0000-0002-5558-4782) |
 
+#### Research interests
+- numerical analysis
+- algorithms on manifolds
+- tensor decompositions: theory and algorithms
+- condition numbers, complexity, distance to singularity
+- applications of differential and algebraic geometry
+
 ### Bibliography
+- Dewaele, N., Breiding, P., & Vannieuwenhoven, N. (2023). Three decompositions of symmetric tensors have similar condition numbers. Linear Algebra and its Applications, 664, 253-263.
+
 #### Article preprints
-- Three decompositions of symmetric tensors have similar condition numbers
-  - Nick Dewaele, Paul Breiding, Nick Vannieuwenhoven, [arXiv 2110.04172](https://arxiv.org/abs/2110.04172)
-- The condition number of many tensor decompositions is invariant under Tucker compression
-  - Nick Dewaele, Paul Breiding, Nick Vannieuwenhoven, [arXiv 2106.13034](https://arxiv.org/abs/2106.13034)
+- Dewaele, N., Breiding, P., & Vannieuwenhoven, N. (2023). The condition number of many tensor decompositions is invariant under Tucker compression (to appear in Numerical Algorithms). [arXiv 2106.13034](https://arxiv.org/abs/2106.13034)
 
 #### Talks
 
