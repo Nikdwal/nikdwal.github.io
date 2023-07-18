@@ -25,6 +25,7 @@
 
 ### Bibliography
 #### Journal articles
+- Dewaele, N. & Vannieuwenhoven N. (2023). What part of a numerical problem is ill-conditioned? [arXiv 2305.11547](https://arxiv.org/abs/2305.11547).
 - Dewaele, N., Breiding, P., & Vannieuwenhoven, N. (2023). Three decompositions of symmetric tensors have similar condition numbers. Linear Algebra and its Applications, 664, 253-263, [DOI 10.1016/j.laa.2023.01.020](https://doi.org/10.1016/j.laa.2023.01.020)
 - Dewaele, N., Breiding, P., & Vannieuwenhoven, N. (2023). The condition number of many tensor decompositions is invariant under Tucker compression (to appear in Numerical Algorithms). [arXiv 2106.13034](https://arxiv.org/abs/2106.13034)
 
