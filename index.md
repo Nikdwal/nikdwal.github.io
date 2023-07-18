@@ -14,7 +14,7 @@
   </tr>
 </table>
   
-| [contact information](https://www.kuleuven.be/wieiswie/nl/person/00124993) | [Researchgate](https://www.researchgate.net/profile/Nick-Dewaele-2) | [ORCiD](https://orcid.org/0000-0002-5558-4782) |
+| [contact information](https://www.kuleuven.be/wieiswie/en/person/00124993) | [Researchgate](https://www.researchgate.net/profile/Nick-Dewaele-2) | [ORCiD](https://orcid.org/0000-0002-5558-4782) |
 
 #### Research interests
 - numerical analysis
