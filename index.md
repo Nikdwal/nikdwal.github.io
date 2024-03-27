@@ -18,7 +18,7 @@
 
 #### Research interests
 - numerical analysis
-- algorithms on manifolds
+- (optimisation) algorithms on manifolds
 - tensor decompositions: theory and algorithms
 - condition numbers, complexity, distance to singularity
 - applications of differential and algebraic geometry
