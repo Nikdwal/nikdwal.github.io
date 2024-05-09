@@ -5,7 +5,7 @@
 
 <table><tr>
   <td>
-    <img src="https://raw.githubusercontent.com/Nikdwal/nikdwal.github.io/master/writing.jpg", width=600px>
+    <img src="writing.jpg", width=600px>
   </td>
  
   <td>
