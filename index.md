@@ -12,7 +12,9 @@
   </td>
  
   <td>
-    I am a Ph.D. student at KU Leuven until August 2024. My research focuses on numerical analysis, in particular the study of condition numbers of tensor-related problems. My advisors are <a href="https://people.cs.kuleuven.be/~nick.vannieuwenhoven">Nick Vannieuwenhoven</a> and <a href="https://pbrdng.github.io/">Paul Breiding</a>.
+    I am a Ph.D. student at KU Leuven until August 2024. 
+    My dissertation is titled "Geometry of numerical sensitivity", presented on 05/07/2024.
+    It focuses on numerical analysis, in particular the study of condition numbers of tensor-related problems. My advisors are <a href="https://people.cs.kuleuven.be/~nick.vannieuwenhoven">Nick Vannieuwenhoven</a> and <a href="https://pbrdng.github.io/">Paul Breiding</a>.
   </td>
   </tr>
 </table>
