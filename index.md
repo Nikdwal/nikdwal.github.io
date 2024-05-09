@@ -3,18 +3,12 @@
 
 ### About me
 
-<table><tr>
-<td>
-<img src="https://raw.githubusercontent.com/Nikdwal/nikdwal.github.io/master/writing.jpg", style="width:600px" />
-</td>
+![picture](https://raw.githubusercontent.com/Nikdwal/nikdwal.github.io/master/writing.jpg)
 
-<td>
 I am a Ph.D. student at KU Leuven until August 2024. 
 My dissertation is titled "Geometry of numerical sensitivity", presented on 05/07/2024.
 It focuses on numerical analysis, in particular the study of condition numbers of tensor-related problems. My advisors are <a href="https://people.cs.kuleuven.be/~nick.vannieuwenhoven">Nick Vannieuwenhoven</a> and <a href="https://pbrdng.github.io/">Paul Breiding</a>.
-</td>
-  
-</tr></table>
+
   
   
 | [contact information](https://www.kuleuven.be/wieiswie/en/person/00124993) | [Researchgate](https://www.researchgate.net/profile/Nick-Dewaele-2) | [ORCiD](https://orcid.org/0000-0002-5558-4782) |
