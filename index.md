@@ -3,7 +3,7 @@
 
 ### About me
 
-<img src="https://raw.githubusercontent.com/Nikdwal/nikdwal.github.io/master/writing.jpg", style="width:600px">
+<img src="https://raw.githubusercontent.com/Nikdwal/nikdwal.github.io/master/writing.jpg" width="500">
 
 I am a Ph.D. student at KU Leuven until August 2024. 
 My dissertation is titled "Geometry of numerical sensitivity", presented on 05/07/2024.
