@@ -5,11 +5,11 @@
 
 <table><tr>
   <td>
-    <img src="https://raw.githubusercontent.com/Nikdwal/nikdwal.github.io/master/me.jpeg">
+    <img src="https://raw.githubusercontent.com/Nikdwal/nikdwal.github.io/master/writing.jpg", width=600px>
   </td>
  
   <td>
-    I am a Ph.D. student at KU Leuven until August 2024. My research focuses on numerical analysis, in particular the study of condition numbers of tensor-related problems. I am supervised by <a href="https://people.cs.kuleuven.be/~nick.vannieuwenhoven">Nick Vannieuwenhoven</a> and <a href="https://pbrdng.github.io/">Paul Breiding</a>.
+    I am a Ph.D. student at KU Leuven until August 2024. My research focuses on numerical analysis, in particular the study of condition numbers of tensor-related problems. My advisors are <a href="https://people.cs.kuleuven.be/~nick.vannieuwenhoven">Nick Vannieuwenhoven</a> and <a href="https://pbrdng.github.io/">Paul Breiding</a>.
   </td>
   </tr>
 </table>
@@ -43,13 +43,13 @@
 - Dewaele, N., Breiding, P. (contr.), Vannieuwenhoven, N. (contr.) (2021). Computing the condition number of tensor decompositions through Tucker compression. Presented at the Matrix Equations and Tensor Techniques IX (METTIX), Università degli Studi di Perugia, Perugia, Italy, 09 Sep 2021-10 Sep 2021.
 - Dewaele, N., Breiding, P. (contr.), Vannieuwenhoven, N. (contr.) (2021). Sensitivity of block term decompositions. Presented at the IPAM Workshop on Mathematical Foundations and Algorithms for Tensor Computations, online, 03 May 2021-06 May 2021.
 
-### Research stays abroad
+### Longer stays abroad
 - [AGATES](https://agates.mimuw.edu.pl/): 24/10/2022 - 25/11/2022
 
 ### Education contributions
 I have been a TA (_"assistent"_, >= 2020) or _"jobstudent"_, (<= 2019) for the following bachelor level courses:
-- [Computergesteund probleemoplossen in de natuurkunde](https://onderwijsaanbod.kuleuven.be/2021/syllabi/n/G0P36BN.htm) (2022-...)
-- [Toepassingen van de meetkunde in de informatica](https://onderwijsaanbod.kuleuven.be/2021/syllabi/n/G0Q37CN.htm) (2020-...)
+- [Computergesteund probleemoplossen in de natuurkunde](https://onderwijsaanbod.kuleuven.be/2021/syllabi/n/G0P36BN.htm) (2022-2024)
+- [Toepassingen van de meetkunde in de informatica](https://onderwijsaanbod.kuleuven.be/2021/syllabi/n/G0Q37CN.htm) (2020-2023)
 - [Analyse, deel 3](https://onderwijsaanbod.kuleuven.be/2018/syllabi/n/H08W0AN.htm) (2018-2019)
 - [Lineaire algebra](https://onderwijsaanbod.kuleuven.be/2018/syllabi/n/H0M69BN.htm) (2018-2019)
 - [Wiskunde voor probleemoplossen](https://onderwijsaanbod.kuleuven.be/2018/syllabi/n/H01B9AN.htm) (2018)
