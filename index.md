@@ -22,9 +22,11 @@ You can download my doctoral dissertation here: [PDF](thesis.pdf)
 - Dewaele, N., Breiding, P., & Vannieuwenhoven, N. (2023). Three decompositions of symmetric tensors have similar condition numbers. Linear Algebra and its Applications, 664, 253-263. [DOI 10.1016/j.laa.2023.01.020](https://doi.org/10.1016/j.laa.2023.01.020)
 
 #### Talks
+- Dewaele, N., Vannieuwenhoven, N. (contr.) (2024). Which constraints of a numerical problem cause ill-conditioning?. NUMA Seminar, KU Leuven, Leuven, Belgium.
 - Dewaele, N., Vannieuwenhoven, N. (contr.) (2023). Condition Numbers of Tensor Factorisations. Presented at the SIAM AG 2023, University of Eindhoven, Eindhoven, Netherlands.
 - Dewaele, N., Vannieuwenhoven, N. (contr.) (2023). What part of a numerical problem is ill-conditioned? Presented at the FOCM 2023, Sorbonne University, Paris, France.
 - Dewaele, N. (2022). A condition number for underdetermined systems. Presented at the Algebraic Geometry with Applications to TEnsors and Secants (AGATES), IMPAN Banach Center, Warsaw.
+- Dewaele, N., Breiding, P. (contr.), Vannieuwenhoven, N. (contr.) (2022). Condition numbers of tensor decompositions. Presented at the Algebraic Geometry with Applications to TEnsors and Secants (AGATES), IMPAN Banach Center, Warsaw.
 - Dewaele, N. (2022). Sensitivity of roots of underdetermined systems. Presented at the Workshop on Solving Polynomial Equations and Applications, CWI, Amsterdam.
 - Dewaele, N., Vannieuwenhoven, N. (contr.), Breiding, P. (contr.) (2022). Computing the condition number of tensor decompositions through Tucker compression. Presented at the DMV Jahrestagung 2022, FU Berlin.
 - Dewaele, N., Vannieuwenhoven, N. (contr.), Breiding, P. (contr.) (2022). Computing the condition number of tensor decompositions through Tucker compression. Presented at the 7th IMA Conference on Numerical Linear Algebra and Optimization, University of Birmingham.
