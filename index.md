@@ -14,12 +14,13 @@ Watch the presentation from when I obtained my doctoral degree here (subtitles a
 You can download my doctoral dissertation here: [PDF](thesis.pdf)
 
 ### Bibliography
-#### Preprints 
+<!-- #### Preprints -->
 - Dewaele, N. & Vannieuwenhoven N. (2023). What part of a numerical problem is ill-conditioned? [arXiv 2305.11547](https://arxiv.org/abs/2305.11547).
 
 #### Journal articles
-- Dewaele, N., Breiding, P., & Vannieuwenhoven, N. (2023). Three decompositions of symmetric tensors have similar condition numbers. Linear Algebra and its Applications, 664, 253-263, [DOI 10.1016/j.laa.2023.01.020](https://doi.org/10.1016/j.laa.2023.01.020)
-- Dewaele, N., Breiding, P., & Vannieuwenhoven, N. (2023). The condition number of many tensor decompositions is invariant under Tucker compression (to appear in Numerical Algorithms). [arXiv 2106.13034](https://arxiv.org/abs/2106.13034)
+- Dewaele, N., Vannieuwenhoven, N. (2024). Which constraints of a numerical problem cause ill-conditioning?. Numerische Mathematik 156, 1427–1453. [DOI s00211-024-01427-6](https://doi.org/10.1007/s00211-024-01427-6)
+- Dewaele, N., Breiding, P., & Vannieuwenhoven, N. (2023). The condition number of many tensor decompositions is invariant under Tucker compression.  Numerical Algorithms 94, 1003–102. [DOI 10.1007/s11075-023-01526-9](https://link.springer.com/article/10.1007/s11075-023-01526-9)
+- Dewaele, N., Breiding, P., & Vannieuwenhoven, N. (2023). Three decompositions of symmetric tensors have similar condition numbers. Linear Algebra and its Applications, 664, 253-263. [DOI 10.1016/j.laa.2023.01.020](https://doi.org/10.1016/j.laa.2023.01.020)
 
 #### Talks
 - Dewaele, N., Vannieuwenhoven, N. (contr.) (2023). Condition Numbers of Tensor Factorisations. Presented at the SIAM AG 2023, University of Eindhoven, Eindhoven, Netherlands.
