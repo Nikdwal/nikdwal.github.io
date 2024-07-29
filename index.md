@@ -15,7 +15,6 @@ You can download my doctoral dissertation here: [PDF](thesis.pdf)
 
 ### Bibliography
 <!-- #### Preprints -->
-- Dewaele, N. & Vannieuwenhoven N. (2023). What part of a numerical problem is ill-conditioned? [arXiv 2305.11547](https://arxiv.org/abs/2305.11547).
 
 #### Journal articles
 - Dewaele, N., Vannieuwenhoven, N. (2024). Which constraints of a numerical problem cause ill-conditioning?. Numerische Mathematik 156, 1427–1453. [DOI s00211-024-01427-6](https://doi.org/10.1007/s00211-024-01427-6)
