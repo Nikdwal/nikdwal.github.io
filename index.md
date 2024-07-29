@@ -17,7 +17,7 @@ You can download my doctoral dissertation here: [PDF](thesis.pdf)
 <!-- #### Preprints -->
 
 #### Journal articles
-- Dewaele, N., Vannieuwenhoven, N. (2024). Which constraints of a numerical problem cause ill-conditioning?. Numerische Mathematik 156, 1427–1453. [DOI s00211-024-01427-6](https://doi.org/10.1007/s00211-024-01427-6)
+- Dewaele, N., Vannieuwenhoven, N. (2024). Which constraints of a numerical problem cause ill-conditioning?. Numerische Mathematik 156, 1427–1453. [DOI 0.1007/s00211-024-01427-6](https://doi.org/10.1007/s00211-024-01427-6)
 - Dewaele, N., Breiding, P., & Vannieuwenhoven, N. (2023). The condition number of many tensor decompositions is invariant under Tucker compression.  Numerical Algorithms 94, 1003–102. [DOI 10.1007/s11075-023-01526-9](https://link.springer.com/article/10.1007/s11075-023-01526-9)
 - Dewaele, N., Breiding, P., & Vannieuwenhoven, N. (2023). Three decompositions of symmetric tensors have similar condition numbers. Linear Algebra and its Applications, 664, 253-263. [DOI 10.1016/j.laa.2023.01.020](https://doi.org/10.1016/j.laa.2023.01.020)
 
