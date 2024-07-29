@@ -3,7 +3,7 @@
 
 ### About me
 
-<table><tr><td width="400"><img src="https://raw.githubusercontent.com/Nikdwal/nikdwal.github.io/master/writing.jpg"></td><td> I am a doctor of Computer Science from KU Leuven since 05/07/2024. My dissertation, titled *Geometry of numerical sensitivity*, is about mathematical aspects of error and precision in numerical computation, with an emphasis on tensor computations. 
+<table><tr><td width="400"><img src="https://raw.githubusercontent.com/Nikdwal/nikdwal.github.io/master/writing.jpg"></td><td> I am a doctor of Computer Science from KU Leuven since 05/07/2024. My dissertation, titled <em>Geometry of numerical sensitivity</em>, is about mathematical aspects of error and precision in numerical computation, with an emphasis on tensor computations. 
 <br>My advisors were <a href="https://people.cs.kuleuven.be/~nick.vannieuwenhoven">Nick Vannieuwenhoven</a> and <a href="https://pbrdng.github.io/">Paul Breiding</a>. <br><br><span style="font-size=0.7em">Picture: Evert Provoost</span></td></tr></table>
 
 | [contact information](https://www.kuleuven.be/wieiswie/en/person/00124993) | [Researchgate](https://www.researchgate.net/profile/Nick-Dewaele-2) | [ORCiD](https://orcid.org/0000-0002-5558-4782) |
