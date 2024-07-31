@@ -46,7 +46,7 @@ Watch my lecture at my doctoral defence here (subtitles available). The lecture 
   - [Lineaire algebra](https://onderwijsaanbod.kuleuven.be/2018/syllabi/n/H0M69BN.htm) (linear algebra, 2018-2019)
   - [Probleemoplossen en ontwerpen I](https://onderwijsaanbod.kuleuven.be/2018/syllabi/n/H01B9AN.htm) (problem solving and design, 2018)
 - development of interactive code notebooks for KU Leuven courses _Analyse 1-3_ (Calculus 1-3, 2020)
-- supervision students on the following topics:
+- mentorion of students on the following topics:
   - (Master's thesis) Completing correlation matrices for portfolio optimisation (P.E. Verleye & J. Nelis, 2021-2022)
   - (Master's thesis) Riemannian optimisation on toric varieties (A. Lescroart, 2020-2021)
   - (Bachelor's project) Function approximation using Julia (2023-2024)
