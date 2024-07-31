@@ -21,7 +21,7 @@ Watch my lecture at my doctoral defence here (subtitles available). The lecture 
 - Dewaele, N., Breiding, P., & Vannieuwenhoven, N. (2023). The condition number of many tensor decompositions is invariant under Tucker compression.  Numerical Algorithms 94, 1003–102. [Published version](https://link.springer.com/article/10.1007/s11075-023-01526-9), [Accepted Version](https://lirias.kuleuven.be/retrieve/755154)
 - Dewaele, N., Breiding, P., & Vannieuwenhoven, N. (2023). Three decompositions of symmetric tensors have similar condition numbers. Linear Algebra and its Applications, 664, 253-263. [Published version](https://doi.org/10.1016/j.laa.2023.01.020), [Accepted Version](https://lirias.kuleuven.be/retrieve/703856)
 
-#### Talks
+#### Talks and seminars
 - Dewaele, N., Vannieuwenhoven, N. (contr.) (2024). Which constraints of a numerical problem cause ill-conditioning?. NUMA Seminar, KU Leuven, Leuven, Belgium.
 - Dewaele, N., Vannieuwenhoven, N. (contr.) (2023). Condition Numbers of Tensor Factorisations. Presented at the SIAM AG 2023, University of Eindhoven, Eindhoven, Netherlands.
 - Dewaele, N., Vannieuwenhoven, N. (contr.) (2023). What part of a numerical problem is ill-conditioned? Presented at the FOCM 2023, Sorbonne University, Paris, France.
