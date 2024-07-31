@@ -39,12 +39,14 @@ Watch my lecture at my doctoral defence here (subtitles available). The lecture 
 - [AGATES](https://agates.mimuw.edu.pl/): 24/10/2022 - 25/11/2022
 
 ### Education contributions
-I have been a TA (_"assistent"_, >= 2020) or _"jobstudent"_, (<= 2019) for the following bachelor level courses:
+I have been a TA (_"assistent"_, >= 2020) or _"jobstudent"_, (<= 2019) for the following bachelor level courses at KU Leuven:
 - [Computergesteund probleemoplossen in de natuurkunde](https://onderwijsaanbod.kuleuven.be/2021/syllabi/n/G0P36BN.htm) (2022-2024)
 - [Toepassingen van de meetkunde in de informatica](https://onderwijsaanbod.kuleuven.be/2021/syllabi/n/G0Q37CN.htm) (2020-2023)
 - [Analyse, deel 3](https://onderwijsaanbod.kuleuven.be/2018/syllabi/n/H08W0AN.htm) (2018-2019)
 - [Lineaire algebra](https://onderwijsaanbod.kuleuven.be/2018/syllabi/n/H0M69BN.htm) (2018-2019)
 - [Wiskunde voor probleemoplossen](https://onderwijsaanbod.kuleuven.be/2018/syllabi/n/H01B9AN.htm) (2018)
+
+I developed interactive code notebooks for KU Leuven courses Analyse I, II, III (Calculus)
 
 I have also supervised master's theses on the following topics
 - Completing correlation matrices for portfolio optimisation (P.E. Verleye & J. Nelis, 2021-2022)
