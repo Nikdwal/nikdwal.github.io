@@ -43,7 +43,7 @@ Watch my lecture at my doctoral defence here (subtitles available). The lecture 
   - [Toepassingen van de meetkunde in de informatica](https://onderwijsaanbod.kuleuven.be/2021/syllabi/n/G0Q37CN.htm) (computational geometry, 2020-2023)
   - [Analyse, deel 3](https://onderwijsaanbod.kuleuven.be/2018/syllabi/n/H08W0AN.htm) (calculus 3, 2018-2019)
   - [Lineaire algebra](https://onderwijsaanbod.kuleuven.be/2018/syllabi/n/H0M69BN.htm) (linear algebra, 2018-2019)
-  - [Probleemoplossen en ontwerpen I](https://onderwijsaanbod.kuleuven.be/2018/syllabi/n/H01B9AN.htm) (problem solving and design, 2018)
+  - [Probleemoplossen en ontwerpen 1](https://onderwijsaanbod.kuleuven.be/2018/syllabi/n/H01B9AN.htm) (problem solving and design, 2018)
 - Development of interactive code notebooks for KU Leuven courses _Analyse 1-3_ (Calculus 1-3, 2020)
 - Mentoring of students on the following topics:
   - (Master's thesis) Completing correlation matrices for portfolio optimisation (P.E. Verleye & J. Nelis, 2021-2022)
