@@ -39,15 +39,15 @@ Watch my lecture at my doctoral defence here (subtitles available). The lecture 
 - [AGATES](https://agates.mimuw.edu.pl/): 24/10/2022 - 25/11/2022
 
 ### Education contributions
-- teaching assistant (_"assistent"_, >= 2020 and _"jobstudent"_, <= 2019) for the following courses at KU Leuven:
+- Teaching assistant (_"assistent"_, >= 2020 and _"jobstudent"_, <= 2019) for the following courses at KU Leuven:
   - [Computergesteund probleemoplossen in de natuurkunde](https://onderwijsaanbod.kuleuven.be/2021/syllabi/n/G0P36BN.htm) (computational methods for physicists, 2022-2024)
   - [Toepassingen van de meetkunde in de informatica](https://onderwijsaanbod.kuleuven.be/2021/syllabi/n/G0Q37CN.htm) (computational geometry, 2020-2023)
   - [Analyse, deel 3](https://onderwijsaanbod.kuleuven.be/2018/syllabi/n/H08W0AN.htm) (calculus 3, 2018-2019)
   - [Lineaire algebra](https://onderwijsaanbod.kuleuven.be/2018/syllabi/n/H0M69BN.htm) (linear algebra, 2018-2019)
   - [Probleemoplossen en ontwerpen I](https://onderwijsaanbod.kuleuven.be/2018/syllabi/n/H01B9AN.htm) (problem solving and design, 2018)
-- development of interactive code notebooks for KU Leuven courses _Analyse 1-3_ (Calculus 1-3, 2020)
-- mentorion of students on the following topics:
+- Development of interactive code notebooks for KU Leuven courses _Analyse 1-3_ (Calculus 1-3, 2020)
+- Mentoring of students on the following topics:
   - (Master's thesis) Completing correlation matrices for portfolio optimisation (P.E. Verleye & J. Nelis, 2021-2022)
   - (Master's thesis) Riemannian optimisation on toric varieties (A. Lescroart, 2020-2021)
   - (Bachelor's project) Function approximation using Julia (2023-2024)
-- outreach events for aspiring bachelor's and master's students in computer science and engineering at KU Leuven.
+- Outreach events for aspiring bachelor's and master's students in computer science and engineering at KU Leuven (2022-2024).
