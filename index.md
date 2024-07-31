@@ -11,10 +11,10 @@
 Watch my lecture at my doctoral defence here (subtitles available). The lecture was targeted at a lay audience.
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/979853090?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Geometry of Numerical Sensitivity"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-You can download my doctoral dissertation here: [PDF](thesis.pdf)
-
 ### Bibliography
 <!-- #### Preprints -->
+#### Doctoral dissertation
+- Dewaele, N. (2024). Geometry of Numerical Sensitivity. KU Leuven. [PDF](thesis.pdf)
 
 #### Journal articles
 - Dewaele, N., Vannieuwenhoven, N. (2024). Which constraints of a numerical problem cause ill-conditioning?. Numerische Mathematik 156, 1427–1453. [Published version](https://doi.org/10.1007/s00211-024-01427-6), [Accepted version](https://lirias.kuleuven.be/retrieve/770286), [Preprint](https://arxiv.org/abs/2305.11547)
