@@ -36,7 +36,7 @@ technological pluralism
 
 -->
 
-# Essay 
+# Why I did not reply to your message on Whatsapp 
 
 ## Introduction
 
