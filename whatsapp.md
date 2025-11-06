@@ -1,3 +1,9 @@
+---
+layout: default
+title: Why I did not reply to your Whatsapp message
+description: an essay for what I cannot say in passing
+---
+
 <!---
 # Why I did not reply to your Whatsapp message
 
