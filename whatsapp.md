@@ -42,8 +42,6 @@ technological pluralism
 
 -->
 
-# Why I did not reply to your message on Whatsapp 
-
 ## Introduction
 
 Has it ever occurred to you that around the turn of the century, the language, nay, _orthography_ we use to talk about technology shifted? In the 90s and early 2000s, we used to lower the volume on the radio when we got a phone call about a new television show. If you weren't out to the shop, you might have browsed a website about an event you were interested in joining. This is no longer the case. Now, you tune in to Spotify as your friend tells you on Whatsapp or Instagram about their favourite Netflix show. After your purchase on Amazon, you update your Facebook app from the App Store to check out the page for that event you wanted to go to.
