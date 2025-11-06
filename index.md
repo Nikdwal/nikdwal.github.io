@@ -1,4 +1,8 @@
-## Nick Dewaele
+---
+layout: default
+title: Nick Dewaele
+description: personal webpage
+---
 
 
 ### About me
