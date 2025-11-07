@@ -4,44 +4,6 @@ title: Why I did not reply to your Whatsapp message
 description: an essay for what I cannot say in passing
 ---
 
-<!---
-# Why I did not reply to your Whatsapp message
-
-## outline
-- intro
-- 20th vs 21st century language
-	- We used to refer to technology by generic names with lowercase letters, now we use capitalised brand names. Why?
-		- phone became Whatsapp, television became Netflix, radio became Spotify, website became Facebook page, retailer became Amazon
-		- some of us have even bent over backwards and started referring to these with lowercase letters or turned them into verbs
-- The effect of where we get technology: we used to go to a variety of shops, and each shop gave a different recommendation of what to buy. Now everyone worldwide goes to the same two shops: Apple's App Store and Google's Play Store.
-	- local shops all used to give their own recommendations, the current app stores only have 1 list, usually worldwide or nationwide
-- software distributed across the internet dominates the market more rapidly.
-	- early market domination is worth 19 billion USD. Facebook has made revenue with Whatsapp, but not enough to win back the investment. The market dominance in and of itself was worth every penny.
-	- the rebuttal "but everyone uses it" used to refer to a product category, now it is an open endorsement of monopolies
-		- by extension, when we forget to ask others "Do you use product X?" and just assume they do, we silently endorse these products' roles as essential features of society. Remember this when people tell you to message them on Whatsapp or scan a QR code.
-		- You cannot install Whatsapp as an exception: as soon as you install it for one thing, everyone will message you through it and think of you as "a person I can talk to through Whatsapp".
-	- open standards require controlled (i.e., slow progress). The enemy of any open standard is a shiny new feature that only one company has made.
-- is Signal the solution? Is anything else the solution? Do we need to change culture before we can change technology
-	- the good:
-		- UI
-		- secure
-		- non-profit
-	- the bad:
-		- centralised, app-focused rather than protocol-focused or standard-focused
-	- technological alternatives?
-		- they exist, but culture is not ready for them anymore
-		- this technological shift cannot happen without cultural awareness. We need to define our values more explicitly. I call mine techonological pluralism.
-			- one of my personal matras: "There are no technological solutions to cultural problems"
-- so what?
-	- XKCD 743
-	- By appealing to futility, we have gone from "I don't care yet" to "I don't care anymore". Let's not continue falling into the same trap with this.
-	- This critique does not only apply to Facebook's empire, but to any 21st century technology that we refer to by brand name
-
-defaultism
-technological pluralism
-
--->
-
 ## Introduction
 
 Has it ever occurred to you that around the turn of the century, the language we use to talk about technology shifted? In the 90s and early 2000s, we used to lower the volume on the radio when we got a phone call about a new television show. If you weren't out to the shop, you might have browsed a website about an event you were interested in joining. This is no longer the case. Now, you tune in to Spotify as your friend tells you on Whatsapp or Instagram about their favourite Netflix show. After your purchase on Amazon, you update your Facebook app from the App Store to check out the page for that event you wanted to go to.
@@ -74,4 +36,4 @@ So where is the catch? It is still a centralised product that is not interchange
 
 Perhaps another messaging service can take us further: Matrix. This is not an app, but a network, quite like the phone or e-mail network. Applications from different vendors can connect to it and nobody owns all of it. I have not given it a shot, though, because I, too, am sensitive to that age-old trope: "no-one I know uses it".
 
-One mantra that I swear by is that social problems do not have technological solutions. Sure, technology can help us out, but it cannot address the root of the problem, which is usually a pattern of human behaviour. In this case, that pattern is the expectation of technology to come as products rather than standards. As a society, we need to recognise the value of interoperability and denounce market concentration. How about a label for that frame of thought? I call it technological pluralism. We cannot all become technological pluralists by simply downloading this or that alternative app. We need to have conversations about these values and what prevents us from enacting them. As for which messaging service you use for those conversations, I have no preference.
+One mantra that I swear by is that social problems do not have technological solutions. Sure, technology can help us out, but it cannot address the root of the problem, which is usually a pattern of human behaviour. In this case, that pattern is the expectation of technology to come as products rather than standards. As a society, we need to recognise the value of interoperability and denounce market concentration. How about a label for that frame of thought? I call it technological pluralism. We cannot all become technological pluralists simply by downloading this or that alternative app. We need to have conversations about these values and what prevents us from enacting them. As for which messaging service you use for those conversations, I have no preference.
