@@ -18,7 +18,7 @@ The second factor that has made a huge impact is the shops that sell the softwar
 
 Both of those factors combined, i.e., the digital nature of modern technology as well as its centralised place for purchase, have one combined effect: once you get big, you dominate the market. With software, it seems like every player is either globally huge or totally insignificant. Everyone is acutely aware of when they are only using the second most popular product on the market and will switch to the most popular one in the blink of an eye.
 
-One of those trendwatchers is named Mark Zuckerberg. When he saw that Whatsapp was trending and threatening Facebook Messenger's position of dominance, he bought the company for a whopping 19 billion USD. The reason? Purely to remain the biggest player in the game, no other justification required. Simply eliminating a competitor was worth the money. Since its purchase, Facebook has not made significant attempts to monetise Whatsapp in a way that compensates for the 19 billion USD purchase. In other words: to Facebook's board of directors, market dominance requires no further justification in terms of calculable profits. 
+One of those trendwatchers is named Mark Zuckerberg. When he saw that Whatsapp was trending and threatening Facebook Messenger's position of dominance, he bought the company for a whopping 19 billion USD. The reason? Purely to remain the biggest player in the game, no other justification required. Simply eliminating a competitor was worth the money. Since its purchase, Facebook<sup>[1](#footnotes)</sup> has not made significant attempts to monetise Whatsapp in a way that compensates for the 19 billion USD purchase. In other words: to Facebook's board of directors, market dominance requires no further justification in terms of calculable profits. 
 
 ## "But everyone uses it"
 
@@ -37,3 +37,7 @@ So where is the catch? It is still a centralised product that is not interchange
 Perhaps another messaging service can take us further: Matrix. This is not an app, but a network, quite like the phone or e-mail network. Applications from different vendors can connect to it and nobody owns all of it. I have not given it a shot, though, because I, too, am sensitive to that age-old trope: "no-one I know uses it".
 
 One mantra that I swear by is that social problems do not have technological solutions. Sure, technology can help us out, but it cannot address the root of the problem, which is usually a pattern of human behaviour. In this case, that pattern is the expectation of technology to come as products rather than standards. As a society, we need to recognise the value of interoperability and denounce market concentration. How about a label for that frame of thought? I call it technological pluralism. We cannot all become technological pluralists simply by downloading this or that alternative app. We need to have conversations about these values and what prevents us from enacting them. As for which messaging service you use for those conversations, I have no preference.
+
+-------
+##### Footnotes
+[1] If you dare to think that I am so disrespectful that I will not even call this company by the name it has gone by since 2021, you are absolutely correct.
