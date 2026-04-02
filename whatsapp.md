@@ -1,4 +1,4 @@
 ---
 layout: forward
-target: /posts/whatsapp
+target: https://nikdwal.github.io/posts/whatsapp
 ---
