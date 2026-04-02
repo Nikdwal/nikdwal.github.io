@@ -2,6 +2,8 @@
 layout: default
 title: Why I did not reply to your WhatsApp message
 description: an essay for what I cannot say in passing
+redirect_from:
+  - /whatsapp
 ---
 
 ## Introduction
