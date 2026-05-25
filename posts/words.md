@@ -1,17 +1,17 @@
 ---
 layout: default
-title: Why I like maths and music but not body language and poetry
-description: an exercise in dimension reduction
+title: What words and reasoning are (not) for
+description: a system to peer into how my mind works
 ---
 (draft)
 
 ## Introduction
-I have always considered myself a rationalist. I have also considered myself a creative type. To some, that is a suprising combination, but it is hardly strange to me at all.
-I see it as exploring multiple facets of what it means to be human: the ability to reason and the ability to create abstract impressions
+I have always considered myself a rationalist for as long as I knew the word. I am a lover of mathematics and precise reasoning. I have also considered myself a creative type and artist for at least as long as that. To some, that is a suprising combination, but it is hardly strange to me at all.
+I see it as exploring multiple facets of what it means to be human: the ability to reason and the ability to create abstract impressions. I am intrigued by the sheer breadth of experience the human mind is capable of. While pondering this breadth, I have found a link between rationality, impressionism, verbal, and non-verbal communication. I present a system of purely hypothetical value, a formalised version of which will undoubtedly crumble under scrutiny. 
 
 ## Clarity of thought
 
-- clarity of thought underrated
+- clarity of thought is a depressingly underrated virtue
 - rationality is profoundly useful in communication as it structures our thoughts before we communicate them in a format that will be easier to unpack
    - even theorised that reasoning ability evolved as a social tool
    - insofar as emotional intelligence has a precise definition, it must involve the ability to reason to be worthy of its name, and I believe that it is
