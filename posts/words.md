@@ -7,7 +7,7 @@ description: a system to peer into how my mind works
 
 ## Introduction
 I have always considered myself a rationalist for as long as I knew the word. I am a lover of mathematics and precise reasoning. I have also considered myself a creative type and artist for at least as long as that. To some, that is a suprising combination, but it is hardly strange to me at all.
-I see it as exploring multiple facets of what it means to be human: the ability to reason and the ability to create abstract impressions. I am intrigued by the sheer breadth of experience the human mind is capable of. While pondering this breadth, I have found a link between rationality, impressionism, verbal, and non-verbal communication. I present a system of purely hypothetical value, a formalised version of which will undoubtedly crumble under scrutiny. 
+I see it as exploring multiple facets of what it means to be human: the ability to reason and the ability to create abstract impressions. I am intrigued by the sheer breadth of experience the human mind is capable of. While pondering this breadth, I have found a link between rationality, impressionism, verbal, and non-verbal communication. It has grown into a system of purely hypothetical value, a formalised version of which will undoubtedly crumble under scrutiny. This system has helped me understand why nobody should say maths is uncool, why modal jazz is the best genre of music, why poetry has never quite appealed to me, and why I approach nonverbal communication sceptically. I present it here in all its glory.
 
 ## Clarity of thought
 
