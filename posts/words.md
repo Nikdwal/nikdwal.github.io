@@ -45,6 +45,6 @@ _gets_ anywhere, does not tell any story, and is thereby maximally separated fro
 ## Does a picture say a thousand words?
 
 Can you hammer a nail with a wrench? Yes, and perhaps you should sometimes. To see a wrench as having only one purpose, one must have a reductionary view of human ingenuity.
-But for me, this system explains why wordy art has never truly moved me and why I shiver at certain kinds of ambiguous so-called communication. Most firmly, I do maintain that we do not
+But for me, this system explains why wordy art has never truly moved me and why I shiver upon the thought of certain kinds of ambiguous so-called communication. Most firmly, I do maintain that we do not
 go to the extremes of the human mind's ability enough. That is, we must celebrate the virtues of pure rationality and pure impressionism vastly more than we do now, and understand which tools are
 tools necessary to achieve either end.
