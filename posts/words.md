@@ -29,8 +29,12 @@ I see it as exploring multiple facets of what it means to be human: the ability 
   - if creativity and divergence matter, use impressionistic means
   - if you want the other person to see clearly what you think, use rationalist means
 - You could use a wrench to smash a nail into a board, but why would you?
-  
-- To rely on the suboptimal tool for either rationality or impressionism would undersell the sheer lengths we can go to as people.
+- 
+- To rely on the suboptimal tool for either rationality or impressionism would undersell the sheer lengths we can go to as people. It is not quite accurate
+that I merely suggest we either pick the verbal-clarity lane or the nonverbal-impressionism lane and stick to it. It is rather a profound appeciation
+for the utility of words in shaping clarity of thought and for the artistic beauty of the nonverbal that pull me towards using them as specialised tools in all their purity.
+
+
 - There was no tool I could have used to lay out my thougts as clearly as with words. Likewise, I could not sing any song that would give
 me the out-of-this-material-world experience I get while playing Herbie Hancock's modal jazz masterpiece Maiden Voyage on the piano. It is music that never
 _gets_ anywhere, does not tell any story, and is thereby maximally separated from anything words could describe.
