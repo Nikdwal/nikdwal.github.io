@@ -32,7 +32,7 @@ I see it as exploring multiple facets of what it means to be human: the ability 
   
 - To rely on the suboptimal tool for either rationality or impressionism would undersell the sheer lengths we can go to as people.
 - There was no tool I could have used to lay out my thougts as clearly as with words. Likewise, I could not sing any song that would give
-me the out-of-this-material-world experience I get while playing Herbie Hancock's modal jazz masterpiece Maiden Voyage. It is music that never
+me the out-of-this-material-world experience I get while playing Herbie Hancock's modal jazz masterpiece Maiden Voyage on the piano. It is music that never
 _gets_ anywhere, does not tell any story, and is thereby maximally separated from anything words could describe.
 
 ## The four quadrants
