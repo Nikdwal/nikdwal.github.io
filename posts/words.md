@@ -1,6 +1,6 @@
 ---
 layout: default
-title: What words and reasoning are (not) for
+title: How to be a rational impressionist
 description: a system to peer into how my mind works
 ---
 (draft)
