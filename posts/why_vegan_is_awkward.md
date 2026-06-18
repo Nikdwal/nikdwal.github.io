@@ -4,7 +4,7 @@ title: 9 reasons why it's awkward to tell people you're vegan
 description: or more broadly, struggles of the principled life
 ---
 
-There has long been a stereotype that any vegan will grandstand incessantly and bring up that they are vegan out of context. Within vegan circles, though, it is accepted that the opposite is true. It is rather their friends that will bring it up in their behalf. That is because the long-term vegan knows that bringing it up is awkward for several reasons they intuivitely understand but may not put into words. 
+There has long been a stereotype that any vegan will grandstand incessantly and bring up that they are vegan out of context. Within vegan circles, though, it is accepted that the opposite is true. It is rather their friends that will bring it up on their behalf. That is because the long-term vegan knows that bringing it up is awkward for several reasons they intuivitely understand but may not put into words. 
 
 This article is for two types of people. First, it is for friends of vegans that have the habit of saying _"I know you do that because you're vegan"_ or _"You should know that my friend is vegan"_ and do not understand the consequences of their actions. Second, it is for those who have been puzzled why someone hesitated to tell you they are vegan. If you know people who are principled in other ways, you might still benefit from this, as several reasons generalise broadly.
 
