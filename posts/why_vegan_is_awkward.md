@@ -4,12 +4,12 @@ title: 9 reasons why it's awkward to tell people you're vegan
 description: or more broadly, struggles of the principled life
 ---
 
-There has long been a stereotype that any vegan will grandstand incessantly and bring up that they are vegan out of context. Within vegan circles, though, it is accepted that the opposite is true. It is rather their friends that will bring it up on their behalf. That is because the long-term vegan knows that bringing it up is awkward for several reasons they intuitively understand but may not put into words. 
+There has long been a stereotype that every vegan will grandstand incessantly and bring up that they are vegan out of context. Within vegan circles, though, it is accepted that the opposite is true. It is rather their friends that will bring it up on their behalf. That is because the long-term vegan knows that bringing it up is awkward for several reasons they intuitively understand but may not put into words. 
 
 This article is for two types of people. First, it is for friends of vegans that have the habit of saying _"I know you do that because you're vegan"_ or _"You should know that my friend is vegan"_ and do not understand the consequences of their actions. Second, it is for those who have been puzzled why someone hesitated to tell you they are vegan. If you know people who are principled in other ways, you might still benefit from this, as several reasons generalise broadly.
 
 ## 1. You are reminded of your otherness
-This is perhaps the deepest and most painful reason. What's more, it is the most inescapable of them all, even with the most understandable people around. Veganism is not normal, ar at least not the status quo, and it will remain that way for a long time with current trends. In such a world, talking about being vegan reminds you of how much of a fringe phenomenon it is. 
+This is perhaps the deepest and most painful reason. What's more, it is the most inescapable of them all, even with the most understanding people around. Veganism is not normal, ar at least not the status quo, and it will remain that way for a long time with current trends. In such a world, talking about being vegan reminds you of how much of a fringe phenomenon it is. 
 
 By contrast, to a vegan, it is the most normal thing there is: it is their daily practice, which they see as morally self-evident. Indeed, they see veganism as so self-evident that it should not be considered an ideology or have a name and simply be called _normal_. It is instead the acceptance of the status quo that should bear a name. Naming the status quo as an ideology or an _-ism_ has not caught on, despite dr. Melanie Joy's best efforts. Thus, we live in a world where the antonym of _vegan_ is _normal_.
 
