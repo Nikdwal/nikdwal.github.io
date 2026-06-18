@@ -7,7 +7,7 @@ description: personal webpage
 
 ### About me
 
-<table><tr><td width="400"><img src="https://raw.githubusercontent.com/Nikdwal/nikdwal.github.io/master/writing.jpg"></td><td>This is the webpage I made to comply with the academic social norm of hosting a website as a public CV. I now use it for anything worth sharing publicly.
+<table><tr><td width="400"><img src="https://raw.githubusercontent.com/Nikdwal/nikdwal.github.io/master/writing.jpg"></td><td>This is the webpage I made to comply with the academic social norm of hosting a website as a public CV. That is, it only exists to brag about how smart I am, just like many other personal webpages you find in the wild. I now use it for anything worth sharing publicly.
 <br><br>
   
 I obtained my doctorate at KU Leuven on 05/07/2024. My dissertation is titled <em>Geometry of numerical sensitivity</em> and it concerns mathematical aspects of error and precision in numerical algorithms, with an emphasis on numerical tensor computations. 
