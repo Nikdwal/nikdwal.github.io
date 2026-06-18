@@ -8,6 +8,7 @@ description: personal webpage
 ### About me
 
 <table><tr><td width="400"><img src="https://raw.githubusercontent.com/Nikdwal/nikdwal.github.io/master/writing.jpg"></td><td>This is the webpage I made to comply with the academic social norm of hosting a website as a public CV. I now use it for anything worth sharing publicly.
+<br>
   
 I obtained my doctorate at KU Leuven on 05/07/2024. My dissertation is titled <em>Geometry of numerical sensitivity</em> and it concerns mathematical aspects of error and precision in numerical algorithms, with an emphasis on numerical tensor computations. 
 <br>My advisors were <a href="https://people.cs.kuleuven.be/~nick.vannieuwenhoven">Nick Vannieuwenhoven</a> and <a href="https://pbrdng.github.io/">Paul Breiding</a>. <br><br><span style="font-size=0.7em">Picture: Evert Provoost</span></td></tr></table>
