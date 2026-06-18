@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Index
+title: Index of posts
 ---
 
 - [Why I did not reply to your WhatsApp message](whatsapp)
